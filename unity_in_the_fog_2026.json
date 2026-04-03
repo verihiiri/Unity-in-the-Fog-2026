@@ -1,8 +1,8 @@
 {
 	"Name": "Unity in the Fog 2026",
-	"Version": 1773754225,
+	"Version": 1775219100,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
+	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -22,6 +22,7 @@
 				"18",
 				"19",
 				"20",
+				"73",
 				"22",
 				"24",
 				"25",
@@ -35,6 +36,7 @@
 				"248",
 				"40",
 				"279",
+				"108",
 				"43",
 				"280",
 				"268",
@@ -53,7 +55,6 @@
 				"70",
 				"269",
 				"72",
-				"73",
 				"74",
 				"295",
 				"75",
@@ -77,14 +78,16 @@
 				"103",
 				"275",
 				"105",
-				"108",
 				"110",
 				"263",
 				"113",
 				"260",
 				"114",
 				"253",
+				"115",
+				"302",
 				"116",
+				"305",
 				"290",
 				"287",
 				"120",
@@ -141,13 +144,13 @@
 				"205",
 				"208",
 				"284",
-				"209",
 				"211",
 				"292",
 				"214",
 				"216",
 				"272",
 				"219",
+				"209",
 				"226",
 				"227",
 				"232",
@@ -187,6 +190,14 @@
 				[
 					"294",
 					"64"
+				],
+				[
+					"55",
+					"113"
+				],
+				[
+					"73",
+					"304"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -205,6 +216,30 @@
 				[
 					"177",
 					"212"
+				],
+				[
+					"146",
+					"224"
+				],
+				[
+					"159",
+					"226"
+				],
+				[
+					"165",
+					"257"
+				],
+				[
+					"150",
+					"220"
+				],
+				[
+					"186",
+					"226"
+				],
+				[
+					"175",
+					"184"
 				]
 			]
 		}
@@ -234,7 +269,6 @@
 				"27",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -249,7 +283,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -300,7 +335,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -319,7 +354,6 @@
 				"27",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -335,7 +369,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -387,7 +422,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -463,7 +498,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -553,7 +588,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32"
 			],
 			"BalanceTiers": [
 				0
@@ -574,7 +609,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"37",
 				"38",
 				"39",
@@ -598,7 +632,8 @@
 				"112",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -649,7 +684,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -670,7 +705,6 @@
 				"28",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -689,7 +723,8 @@
 				"112",
 				"121",
 				"123",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -741,7 +776,7 @@
 		{
 			"Name": "The Doctor",
 			"KillerNotes": "\n",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -763,7 +798,6 @@
 				"27",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -778,7 +812,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -831,7 +866,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -850,7 +885,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -864,7 +898,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -918,7 +953,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -936,7 +971,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -950,7 +984,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1002,7 +1037,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1021,7 +1056,6 @@
 				"27",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1034,7 +1068,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1089,7 +1124,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -1110,7 +1145,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"37",
 				"38",
 				"39",
@@ -1135,7 +1169,8 @@
 				"112",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1199,7 +1234,7 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1211,9 +1246,9 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"215",
 				"198",
 				"213",
-				"215",
 				"222"
 			],
 			"KillerComboPerkBans": [],
@@ -1225,7 +1260,6 @@
 				"27",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1240,7 +1274,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1307,7 +1342,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1396,7 +1431,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1414,7 +1449,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1427,7 +1461,8 @@
 				"92",
 				"109",
 				"112",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1475,7 +1510,7 @@
 		{
 			"Name": "The Plague",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1493,7 +1528,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1504,7 +1538,8 @@
 				"76",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -1557,7 +1592,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -1578,7 +1613,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"37",
 				"38",
 				"39",
@@ -1606,7 +1640,8 @@
 				"112",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1656,7 +1691,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -1674,7 +1709,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1687,7 +1721,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1754,7 +1789,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1766,7 +1800,8 @@
 				"92",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1831,7 +1866,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -1849,7 +1884,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1860,7 +1894,8 @@
 				"76",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1911,7 +1946,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1926,14 +1961,14 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"44",
 				"61",
 				"69",
 				"76",
 				"109",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -1991,7 +2026,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -2082,7 +2117,7 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -2098,14 +2133,14 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
 				"61",
 				"69",
 				"76",
-				"109"
+				"109",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2176,7 +2211,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -2192,7 +2227,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2203,7 +2237,8 @@
 				"76",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2256,7 +2291,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2274,7 +2309,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2288,7 +2322,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2340,7 +2375,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2358,7 +2393,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"261",
@@ -2370,7 +2404,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2421,7 +2456,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -2437,7 +2472,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2447,7 +2481,8 @@
 				"76",
 				"109",
 				"112",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2499,7 +2534,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -2520,7 +2555,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"37",
 				"38",
 				"39",
@@ -2545,7 +2579,8 @@
 				"112",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2595,7 +2630,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2620,7 +2655,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"37",
 				"38",
 				"39",
@@ -2645,7 +2679,8 @@
 				"112",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2701,7 +2736,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2718,7 +2753,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2730,7 +2764,8 @@
 				"92",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2783,7 +2818,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -2801,7 +2836,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2815,7 +2849,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2870,7 +2905,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2888,7 +2923,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2903,7 +2937,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2958,7 +2993,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2975,7 +3010,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2987,7 +3021,8 @@
 				"92",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3042,7 +3077,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -3059,7 +3094,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3072,7 +3106,8 @@
 				"107",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3126,7 +3161,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3145,7 +3180,6 @@
 				"286",
 				"32",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3159,7 +3193,8 @@
 				"109",
 				"115",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -3213,7 +3248,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3230,7 +3265,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3242,7 +3276,8 @@
 				"92",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3295,7 +3330,7 @@
 			"KillerNotes": "You may no longer loot Treasure Chests for magical items. \n ",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3312,7 +3347,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"44",
 				"261",
@@ -3323,7 +3357,8 @@
 				"92",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3380,7 +3415,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3395,7 +3430,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"44",
 				"261",
@@ -3404,7 +3438,8 @@
 				"69",
 				"76",
 				"109",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3457,9 +3492,9 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -3480,7 +3515,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				758,
+				757
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3510,7 +3548,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -3531,7 +3569,6 @@
 			"SurvivorIndvPerkBans": [
 				"286",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3541,7 +3578,8 @@
 				"76",
 				"92",
 				"109",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3603,7 +3641,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3619,7 +3657,6 @@
 				"21",
 				"286",
 				"34",
-				"36",
 				"38",
 				"44",
 				"57",
@@ -3628,7 +3665,8 @@
 				"76",
 				"92",
 				"109",
-				"121"
+				"121",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3688,7 +3726,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -3739,7 +3777,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
