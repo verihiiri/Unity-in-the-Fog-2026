@@ -1,6 +1,6 @@
 {
 	"Name": "Unity in the Fog 2026",
-	"Version": 1775219100,
+	"Version": 1775579427,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -240,6 +240,10 @@
 				[
 					"175",
 					"184"
+				],
+				[
+					"174",
+					"183"
 				]
 			]
 		}
@@ -2115,7 +2119,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"5"
 			],
