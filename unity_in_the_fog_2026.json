@@ -1,6 +1,6 @@
 {
 	"Name": "Unity in the Fog 2026",
-	"Version": 1776276150,
+	"Version": 1778772387,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -302,15 +302,25 @@
 				18
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -348,7 +358,7 @@
 			"SurvivorBalanceTiers": [
 				0
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -389,15 +399,25 @@
 				39
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -461,25 +481,51 @@
 				54
 			],
 			"ItemWhitelist": [
-				9,
-				6,
-				0
+				0,
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
-						11
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -551,25 +597,53 @@
 				79
 			],
 			"ItemWhitelist": [
-				9,
-				6,
-				0
+				0,
+				4,
+				14,
+				15,
+				7,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
 						11
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -652,14 +726,25 @@
 				99
 			],
 			"ItemWhitelist": [
-				6
+				4,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -745,15 +830,25 @@
 				119
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -833,15 +928,25 @@
 				127
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -920,15 +1025,25 @@
 				155
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1004,15 +1119,25 @@
 				174
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1091,15 +1216,25 @@
 				197
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1204,14 +1339,25 @@
 				218
 			],
 			"ItemWhitelist": [
-				6
+				4,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1309,15 +1455,25 @@
 				238
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1395,24 +1551,52 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6,
-				9
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
 						11
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1479,15 +1663,25 @@
 				262
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1559,15 +1753,25 @@
 				298
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1659,14 +1863,25 @@
 				318
 			],
 			"ItemWhitelist": [
-				6
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1740,15 +1955,25 @@
 				338
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1833,15 +2058,25 @@
 				358
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1913,15 +2148,25 @@
 				378
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1993,15 +2238,25 @@
 				392
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2080,25 +2335,54 @@
 				418
 			],
 			"ItemWhitelist": [
-				9,
-				6,
-				0
+				0,
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
 						11
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2173,7 +2457,12 @@
 				438
 			],
 			"ItemWhitelist": [
-				6
+				0,
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2184,14 +2473,36 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2259,14 +2570,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2342,15 +2663,25 @@
 				478
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2423,15 +2754,25 @@
 				498
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2501,15 +2842,25 @@
 				515
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2600,14 +2951,25 @@
 				536
 			],
 			"ItemWhitelist": [
-				6
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2704,14 +3066,25 @@
 				556
 			],
 			"ItemWhitelist": [
-				6
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2786,14 +3159,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2872,15 +3255,25 @@
 				593
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2961,14 +3354,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3044,21 +3447,52 @@
 				633
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -3129,14 +3563,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3216,14 +3660,25 @@
 				671
 			],
 			"ItemWhitelist": [
-				6
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3298,14 +3753,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3383,14 +3848,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3461,15 +3936,25 @@
 				738
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				0,
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3524,13 +4009,26 @@
 				758,
 				757
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3602,24 +4100,52 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6,
-				9
+				4,
+				7,
+				8,
+				14,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
 						11
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -3691,14 +4217,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				4
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3750,19 +4286,52 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7,
+				8,
+				14,
+				15
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -3801,13 +4370,26 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
